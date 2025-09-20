@@ -1,4 +1,5 @@
 Waste Sorting System & Performance Analytics Dashboard
+
 A real-time dashboard simulating an automated waste sorting facility with advanced controls and performance analytics.
 
 1. Project Overview
@@ -126,5 +127,6 @@ Hardware Connectivity:
 Integrate the web dashboard with a physical prototype using a Raspberry Pi or similar microcontroller. The application could send commands to control servo motors for sorting, read data from real sensors, and create a complete cyber-physical system.
 
 Advanced Analytics & Reporting:
+
 
 Implement a feature to export the currently filtered data as a CSV file, allowing for in-depth offline analysis and record-keeping in tools like Excel or Google Sheets.
